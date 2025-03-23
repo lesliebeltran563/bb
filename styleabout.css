@@ -1,0 +1,250 @@
+
+.about,
+.about * {
+  box-sizing: border-box;
+}
+.about {
+  background: #ffffff;
+  height: 960px;
+  position: relative;
+}
+.title {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 40px;
+  line-height: 150%;
+  letter-spacing: -0.01em;
+  font-weight: 600;
+  position: absolute;
+  left: 84px;
+  top: 93px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.title2 {
+  color: #781e1e;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  letter-spacing: -0.01em;
+  font-weight: 600;
+  position: absolute;
+  left: 87px;
+  top: 152px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.event-request-form {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1095px;
+  top: 114px;
+}
+.home {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 852px;
+  top: 114px;
+}
+.about2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 973px;
+  top: 114px;
+}
+.screenshot-2025-03-03-at-8-53-18-pm-6 {
+  width: 90px;
+  height: 102px;
+  position: absolute;
+  left: 475px;
+  top: 65px;
+  object-fit: cover;
+  aspect-ratio: 90/102;
+}
+.enjoy-our-game-library-that-holds-over-500-games-that-caters-to-all-whether-you-re-in-for-a-laugh-brutal-competition-old-favorites-or-the-latest-games-you-can-find-it-on-our-shelves {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  letter-spacing: -0.01em;
+  font-weight: 400;
+  position: absolute;
+  left: 87px;
+  top: 645px;
+  width: 1279px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.title3 {
+  color: #781e1e;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  letter-spacing: -0.01em;
+  font-weight: 600;
+  position: absolute;
+  left: 87px;
+  top: 601px;
+  width: 364px;
+  height: 43px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  text-decoration: underline;
+}
+.rectangle-1 {
+  background: transparent;
+  border-style: solid;
+  border-color:  #781e1e;
+  border-width: 1px;
+  border-radius: 10px;
+  width: 1250px;
+  height: 125px;
+  position: absolute;
+  left: 72px;
+  top: 601px;
+}
+.made-from-scratch-we-create-most-of-our-dishes-in-house-partnering-with-local-artisans-for-specialty-offerings-like-fresh-bread-premium-ice-cream-and-handcrafted-pastries-we-offer-a-variety-of-delicious-vegan-options {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  letter-spacing: -0.01em;
+  font-weight: 400;
+  position: absolute;
+  left: 87px;
+  top: 211px;
+  width: 1252px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.title4 {
+  color: #781e1e;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  letter-spacing: -0.01em;
+  font-weight: 600;
+  position: absolute;
+  left: 87px;
+  top: 168px;
+  width: 364px;
+  height: 43px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  text-decoration: underline;
+}
+.rectangle-2 {
+  background: transparent;
+  border-style: solid;
+  border-color:  #781e1e;
+  border-width: 1px;
+  border-radius: 10px;
+  width: 1252px;
+  height: 125px;
+  position: absolute;
+  left: 72px;
+  top: 168px;
+}
+.from-morning-brews-to-evening-spirits-whether-it-s-single-origin-coffee-handcrafted-cocktails-spiked-milkshakes-craft-sodas-beers-or-delicate-teas-we-have-the-perfect-pour-for-every-moment {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  letter-spacing: -0.01em;
+  font-weight: 400;
+  position: absolute;
+  left: 87px;
+  top: 421px;
+  width: 1250px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.title5 {
+  color: #781e1e;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  letter-spacing: -0.01em;
+  font-weight: 600;
+  position: absolute;
+  left: 87px;
+  top: 378px;
+  width: 364px;
+  height: 43px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  text-decoration: underline;
+}
+.rectangle-3 {
+  background: transparent;
+  border-style: solid;
+  border-color:  #781e1e;
+  border-width: 1px;
+  border-radius: 10px;
+  width: 1255px;
+  height: 125px;
+  position: absolute;
+  left: 72px;
+  top: 378px;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #781e1e; 
+  padding: 10px 20px;
+  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+  position: absolute;
+  top: 50px;
+  left: 50px; 
+  right: 50px; 
+  gap: 50px;
+}
+.nav-brand {
+  display: flex;
+  align-items: center;
+  gap: 10px; 
+}
+.nav-logo {
+  width: 40px;
+  height: auto;
+}
+.nav-title {
+  font-size: 40px;
+  font-weight: bold;
+  color: #ffffff; 
+}
+.nav-links {
+  margin-left: auto;
+}
+
+
+
