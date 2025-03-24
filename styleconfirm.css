@@ -103,10 +103,6 @@
   object-fit: cover;
   aspect-ratio: 90/102;
 }
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(20px); }
-  to { opacity: 1; transform: translateY(0); }
-}
 .thank-you {
   color: #000000;
   text-align: left;
